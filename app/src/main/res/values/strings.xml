@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myanTrip</string>
+    <string name="title_home">Home</string>
+    <string name="title_communication">Communication</string>
+    <string name="title_blog">Blog</string>
+
+    <string name="pitch">pitch</string>
+    <string name="speed">speed</string>
+    <string name="speak">speak</string>
+</resources>
